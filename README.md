@@ -83,7 +83,7 @@ metawarc analyze mmkf.warc.gz > analysis_mmkf.txt
 
 ## Контакты
 
-[Гайтукиева Дарья],  
+[Гайтукиева Дарья](https://t.me/daria_gaitukieva),  
 Цифровые методы в гуманитарных науках,  
 2025
 
