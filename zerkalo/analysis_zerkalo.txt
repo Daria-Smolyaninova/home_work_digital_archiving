@@ -1,0 +1,5 @@
+mimes         files    size       share
+----------  -------  ------  ----------
+text/html        22  299790   99.6603
+text/plain        1    1022    0.339747
+#total           23  300812  100
